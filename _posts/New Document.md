@@ -1,3 +1,23 @@
+---
+    author: kresnikwang
+    comments: true
+    date: 2015-04-28 17:42:32+00:00
+    layout: post
+    title: PHP, Angular JS Development|My Export Quote|农产品出口工具开发
+    categories:
+    - Works
+    - Tech
+    tags:
+    - bootstrap
+    - javascript
+    - php
+    - AngularJS
+    ---
+
+作者：王彦宁
+链接：https://www.zhihu.com/question/30018945/answer/50507749
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ##
 #流程敲定：
 # 1. 用户输入一句话
